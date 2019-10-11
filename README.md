@@ -34,7 +34,7 @@ After that you will be able to access a "Dashboard" page that will give you acce
 
 Perform the following steps:
 
-1. Click the following button: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AlexJitianu/dita-and-markdown)
+1. Click the following button: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AlexJitianu/dita-meets-markdown)
 2. Click "Connect to GitHub". If you do not have a GitHub account, you can create one for free.
 3. Choose a name for the new repository
 4. Click "Save & Deploy"
