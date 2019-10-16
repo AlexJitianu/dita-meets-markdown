@@ -10,7 +10,7 @@
     </section>
     <section id="steps">
       <ol>
-        <li><p conref="../mdita-topics/basic-concepts.md#basic-concepts/power-off" /></li>
+        <li><p>Make sure power to the fixture where you are installing the light bulb is turned OFF.</p></li>
         <li><p>Remove any existing light bulb from the light fixture.</p></li>
         <li><p>Install the network light bulb into the light fixture as you would any standard light bulb.</p></li>
         <li><p>Turn power to the light fixture on.</p></li>

@@ -43,6 +43,7 @@ Modified by Syncro Soft 2016.
   
   <topichead navtitle="Keys" processing-role="resource-only">
     <keydef keys="carwash" href="image/carwash.jpg" format="jpg"/>
-    <keydef keys="water.hose" href="concepts/waterhose.dita" />
+    
+    <!-- <keydef keys="water.hose" href="concepts/waterhose.dita" /> -->
   </topichead>
 </map>

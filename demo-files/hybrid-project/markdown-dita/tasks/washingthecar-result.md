@@ -1,5 +1,22 @@
+---
+author:
+  - Author One
+  - Author Two
+source: Source
+publisher: Publisher
+permissions: Permissions
+audience: Audience
+category: Category
+keyword:
+  - Keyword1
+  - Keyword2
+resourceid:
+  - Resourceid1
+  - Resourceid2
+workflow: review
+---
 
-# Washing the car {#changing.the.oil}
+# Washing the car {#changing.the.oil .task}
 
 
 Keep your car looking great by washing it regularly.
@@ -13,5 +30,7 @@ Keep your car looking great by washing it regularly.
 
 An image reference that uses the href attribute. 
 
+![washing the car](../image/carwash.jpg)
 
-See also Changing the oil and waterhose topics 
+
+See also[Changing the oil](changingtheoil.md) and [water.hose] 
