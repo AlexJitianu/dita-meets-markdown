@@ -45,12 +45,4 @@
         </sch:rule>
     </sch:pattern>
     
-    <!-- Short description.  -->
-    <sch:pattern>
-        <sch:rule >
-            
-        </sch:rule>
-        
-    </sch:pattern>
-
 </sch:schema>
