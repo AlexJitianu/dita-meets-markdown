@@ -8,8 +8,8 @@
                     <entry>
                         <String>additional.frameworks.directories</String>
                         <String-array>
-                            <String>${pd}/adoption/quickFixes/frameworks/</String>
-                            <String>${pd}/dita_concepts/ssp/demo/presentationSamples/frameworks/</String>
+                            <String>${pd}/dita-adoption/quickFixes/frameworks/</String>
+                            <String>${pd}/dita-glass/ssp/demo/presentationSamples/frameworks/</String>
                         </String-array>
                     </entry>
                     <entry>
