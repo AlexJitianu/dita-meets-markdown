@@ -16,8 +16,8 @@ Modified by Syncro Soft 2016.
     <topicref href="tasks/washingthecar.md" format="markdown"/>
   </topicref>
   
-  <topicref href="concepts/garageconceptsoverview.dita" type="concept" audience="expert">
-    <topicref href="concepts/lawnmower.dita" type="concept" audience="novice"/>
+  <topicref href="concepts/garageconceptsoverview.dita" type="concept">
+    <topicref href="concepts/lawnmower.dita" type="concept"/>
     <topicref href="concepts/oil.dita" type="concept"/>
     <topicref href="concepts/paint.dita" type="concept"/>
     <topicref href="concepts/shelving.dita" type="concept"/>
@@ -42,7 +42,7 @@ Modified by Syncro Soft 2016.
   </reltable>
   
   <topichead navtitle="Keys" processing-role="resource-only">
-    <keydef keys="carwash" href="image/carwash.jpg" format="jpg"/>
+    <!--<keydef keys="carwash" href="image/carwash.jpg" format="jpg"/>-->
     
     <!-- <keydef keys="water.hose" href="concepts/waterhose.dita" /> -->
   </topichead>

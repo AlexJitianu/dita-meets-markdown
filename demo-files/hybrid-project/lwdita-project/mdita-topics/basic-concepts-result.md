@@ -12,4 +12,4 @@ Network light bulbs from your [product-name] work with your light fixtures the s
    
 <p id="power-off">Make sure power to the fixture where you are installing the light bulb is turned OFF.</p>
    
-<p conref="../hdita-topics/low-power.html#low-power/disconnect-warning" />
+<p data-conref="../hdita-topics/low-power.html#low-power/disconnect-warning" />
