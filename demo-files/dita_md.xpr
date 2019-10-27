@@ -670,7 +670,7 @@
                 <file name="dita-adoption/quickFixes/test.dita"/>
             </folder>
             <file name="dita-adoption/form/form.html"/>
-            <file name="https://www.oxygenxml.com/oxygen-xml-web-author/app/oxygen.html?url=gdrive%3A%2F%2F%2F101996219226032793457%2Fdrive%2F0APDdf4UvMBfLUk9PVA%2FMy%2BDrive%2FaccountTask.dita&amp;author=Alex%20Jitianu"/>
+            <file name="https://www.oxygenxml.com/oxygen-xml-web-author/app/oxygen.html?url=gitgh%3A%2F%2Fhttps%253A%252F%252Fgithub.com%252FAlexJitianu%252FWeb-author-test%2Fmaster%2FaccountTask.dita"/>
         </folder>
         <folder path="."/>
     </projectTree>
