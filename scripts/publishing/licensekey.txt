@@ -1,21 +1,21 @@
 ------START-LICENSE-KEY------
 
-Registration_Name=Syncro Soft Test License
+Registration_Name=Demo License
 
-Company=SYNCRO SOFT (Internal-use Only)
+Company=
 
 Category=Enterprise
 
 Component=Scripting
 
-Version=21
+Version=22
 
 Number_of_Licenses=1
 
-Date=10-10-2019
+Date=09-10-2020
 
 Trial=40
 
-SGN=MCwCFDczihxQZyOHEocJ2XpLhimGL5roAhQ/3Mrs4xr5QCmngbqS9HMk7+f3pA\=\=
+SGN=MCwCFAc+2MZ5bEm5B9qs/ZB7KgFAlxlwAhQ+tMKClnx6vPskSA80gAaiKkWjPg\=\=
 
 -------END-LICENSE-KEY-------

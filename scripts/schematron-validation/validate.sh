@@ -6,7 +6,7 @@ if [[ ! -e bin/saxon9.jar ]];
 then
   mkdir bin
   touch bin/saxon9.jar
-  curl -L -q http://central.maven.org/maven2/net/sf/saxon/Saxon-HE/9.9.1-2/Saxon-HE-9.9.1-2.jar > bin/saxon9.jar
+  curl -L -q https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/9.9.1-2/Saxon-HE-9.9.1-2.jar > bin/saxon9.jar
 fi
 
 echo "Downloading Apache catalog Resolver"

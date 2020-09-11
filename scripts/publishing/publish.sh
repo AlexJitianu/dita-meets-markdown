@@ -16,7 +16,7 @@ echo "====================================="
 echo "download WebHelp plugin"
 echo "====================================="
 
-curl -q -L https://www.oxygenxml.com/InstData/WebHelp/oxygen-webhelp-dot-2.x.zip  --output bin/oxygen-webhelp-dot-2.x.zip
+curl -q -L https://mirror.oxygenxml.com/InstData/WebHelp/oxygen-webhelp-dot-3.x.zip  --output bin/oxygen-webhelp-dot-2.x.zip
 
 
 echo "====================================="

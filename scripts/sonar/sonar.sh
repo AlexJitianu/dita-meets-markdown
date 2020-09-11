@@ -18,4 +18,18 @@ bash scripts/validate-check-completeness/validate-check-completeness.sh
 echo "Running sonar"
 bin/sonar/bin/sonar-scanner -X \
     -Dproject.settings=scripts/sonar/sonar.properties
+	
+echo "report"
+
+
+
+for file in /opt/build/repo/.scannerwork/scanner-report/*
+do
+    if [[ -f $file ]]; then
+        echo "$file"
+    fi
+done
+
+
+
    
